@@ -2,7 +2,7 @@
 
 # My Python Examples.
 
-Here is more detailed information about scripts I have written.  I do not consider myself a programmer; I create these little programs as experiments to play with the language, or to solve problems for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at craig@MohanSha.co.uk.
+Here is more detailed information about scripts I have written.  I do not consider myself a programmer; I create these little programs as experiments to play with the language, or to solve problems for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at mohansha@outlook.com
 
 In the scripts the comments and other documents are lined up correctly when they are viewed in [Notepad++](https://notepad-plus-plus.org/). This is what I use to code Python scripts.
 
